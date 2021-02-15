@@ -1,0 +1,14 @@
+*.7z
+*.dmg
+*.qz
+*.iso
+*.jar
+*.tar
+*.zip
+*.war
+*.ear
+*.sar
+*.class
+.settings/
+.classpath
+.project
